@@ -1,0 +1,1 @@
+export const selectDogs = (store) => store.dogs;
