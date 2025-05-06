@@ -4,6 +4,7 @@ const initialState ={
     items:[],
     loading: false,
     error: null,
+    cartId: null
 };
 
 const cartSlice = createSlice({
