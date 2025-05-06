@@ -8,4 +8,5 @@ export const productListStyle = css`
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 40px;
+    
 `;

@@ -12,11 +12,13 @@ export const productCardWrapperStyle = css`
 export const productCardImageWrapperStyle = css`
     text-align: center;
     margin-bottom: 32px;
+    // max-height: 32px;
 `;
 
 export const productCardImageStyle = css`
     ${imgResponsiveStyle}
     max-width: 278px;
+    max-height: 278px;
 `
 export const productCardTitleStyle = css`
     font-size: 24px;
